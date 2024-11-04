@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="https://github.com/raza9100/raza9100/raw/main/binary-code-4437421_1280.jpg" alt="Ahmed Raza" width="300"/>
+  <img src="https://github.com/raza9100/raza9100/raw/main/binary-code-4437421_1280.jpg" alt="Ahmed Raza" style="width: 100%; max-width: 800px;"/>
 </p>
 
 ## Hi Dear👋
+<h3 align="right">MY name is AHMED RAZA</h3>
 <h3 align="center">Frappe Developer from Pakistan</h3>
 <p align="center">Specializing in custom development and tailored solutions to meet your needs.</p>
 <p align="center">Let’s collaborate and bring your ideas to life!</p>
