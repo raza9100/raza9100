@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-<h1 align="center">Hi 👋, I'm Ahmed Raza</h1>
-<h3 align="center">A frappe developer from Pakistan</h3>
+<h3 align="center">Frappe Developer from Pakistan</h3>
+<p align="center">
+  <img src="https://github.com/raza9100/raza9100/raw/main/binary-code-4437421_1280.jpg" alt="Ahmed Raza" width="300"/>
+</p>
+<p align="center">Specializing in custom development and tailored solutions to meet your needs.</p>
+<p align="center">Let’s collaborate and bring your ideas to life!</p>
+>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
