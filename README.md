@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://github.com/raza9100/raza9100/raw/main/binary-code-4437421_1280.jpg" alt="Ahmed Raza" style="width: 100%; max-width: 800px;"/>
+  <img src="https://github.com/raza9100/raza9100/raw/main/binary-code-4437421_1280.jpg" alt="Ahmed Raza" style="width: 100%; max-width: 800px; height:300px"/>
 </p>
 
 ## Hi Dear👋
-<h3 align="right">MY name is AHMED RAZA</h3>
+<h3 align="left">MY name is AHMED RAZA</h3>
 <h3 align="center">Frappe Developer from Pakistan</h3>
 <p align="center">Specializing in custom development and tailored solutions to meet your needs.</p>
 <p align="center">Let’s collaborate and bring your ideas to life!</p>
@@ -35,9 +35,7 @@
 
 <h3 align="left">Projects:</h3>
 <p align="left">
-  - [Project Name 1](link-to-your-project) - Brief description of what this project does.
-  - [Project Name 2](link-to-your-project) - Brief description of what this project does.
-  - [Project Name 3](link-to-your-project) - Brief description of what this project does.
+  - [Qetah-Phase-1](https://github.com/NexTash/Qetah-Phase-1.git) - A project that provides solutions for [live site](https://jungheinrichsa.edponline.co.za/).
 </p>
 
 <h3 align="left">Interests:</h3>
