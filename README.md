@@ -35,7 +35,8 @@
 
 <h3 align="left">Projects:</h3>
 <p align="left">
-  - [Qetah-Phase-1](https://github.com/NexTash/Qetah-Phase-1.git) - A project that provides solutions for [live site](https://jungheinrichsa.edponline.co.za/).
+  - [Qetah-Phase-1](https://github.com/NexTash/Qetah-Phase-1.git) - A project that provides solutions for [live site](https://jungheinrichsa.edponline.co.za/).etc 
+  
 </p>
 
 <h3 align="left">Interests:</h3>
